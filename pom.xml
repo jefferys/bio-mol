@@ -5,4 +5,12 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>Bio-molecular object library</name>
   <description>A collection of java objects to use with genomic and proteomic java programs.</description>
+  <scm>
+  	<url>https://github.com/jefferys/bio-mol</url>
+  	<developerConnection>scm:git:https://github.com/jefferys/bio-mol.git</developerConnection>
+  	<connection>scm:git:git://github.com/jefferys/bio-mol.git</connection>
+  </scm>
+  <organization>
+  	<url>www.theobio.org</url>
+  </organization>
 </project>
